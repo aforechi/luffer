@@ -1,0 +1,7 @@
+alias make='luffer exec make'
+alias central='luffer exec ./central'
+alias proccontrol='luffer exec ./proccontrol'
+alias eclipse='luffer exec nohup /opt/eclipse/eclipse &'
+alias bash='luffer exec stty rows 60 cols 204 && bash'
+alias x='luffer exec'
+alias netcomp='luffer exec netcomp'

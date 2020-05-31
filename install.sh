@@ -6,7 +6,7 @@ mkdir -p ~/.luffer
 
 # Copy example CARMEN configuration to user's directory.
 mkdir -p ~/.luffer/carmen
-(cd scripts/carmen ; cp -v *.bashrc ~/.luffer/carmen)
+(cd scripts/carmen ; cp -v *.sh *.bashrc ~/.luffer/carmen)
 
 # Copy example ROS configuration to user's directory.
 mkdir -p ~/.luffer/ros
